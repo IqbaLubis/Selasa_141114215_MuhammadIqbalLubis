@@ -1,0 +1,2 @@
+D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\Selasa_141114215_MuhammadIqbalLubis\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config

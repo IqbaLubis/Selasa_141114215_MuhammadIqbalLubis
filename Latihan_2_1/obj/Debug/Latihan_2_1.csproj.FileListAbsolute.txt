@@ -1,0 +1,9 @@
+D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\Selasa_141114215_MuhammadIqbalLubis\Latihan_2_1\bin\Debug\Latihan_2_1.exe.config
+D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\Selasa_141114215_MuhammadIqbalLubis\Latihan_2_1\bin\Debug\Latihan_2_1.exe
+D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\Selasa_141114215_MuhammadIqbalLubis\Latihan_2_1\bin\Debug\Latihan_2_1.pdb
+D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\Selasa_141114215_MuhammadIqbalLubis\Latihan_2_1\obj\Debug\Latihan_2_1.Form1.resources
+D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\Selasa_141114215_MuhammadIqbalLubis\Latihan_2_1\obj\Debug\Latihan_2_1.Properties.Resources.resources
+D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\Selasa_141114215_MuhammadIqbalLubis\Latihan_2_1\obj\Debug\Latihan_2_1.csproj.GenerateResource.Cache
+D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\Selasa_141114215_MuhammadIqbalLubis\Latihan_2_1\obj\Debug\Latihan_2_1.exe
+D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\Selasa_141114215_MuhammadIqbalLubis\Latihan_2_1\obj\Debug\Latihan_2_1.pdb
+D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\Selasa_141114215_MuhammadIqbalLubis\Latihan_2_1\obj\Debug\Latihan_2_1.csprojResolveAssemblyReference.cache
