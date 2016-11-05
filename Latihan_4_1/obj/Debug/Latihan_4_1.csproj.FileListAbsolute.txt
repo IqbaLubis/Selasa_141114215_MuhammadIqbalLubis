@@ -1,0 +1,8 @@
+D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\Selasa_141114215_MuhammadIqbalLubis\Latihan_4_1\bin\Debug\Latihan_4_1MenuStrip.exe.config
+D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\Selasa_141114215_MuhammadIqbalLubis\Latihan_4_1\obj\Debug\Latihan_4_1MenuStrip.exe
+D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\Selasa_141114215_MuhammadIqbalLubis\Latihan_4_1\obj\Debug\Latihan_4_1MenuStrip.pdb
+D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\Selasa_141114215_MuhammadIqbalLubis\Latihan_4_1\bin\Debug\Latihan_4_1MenuStrip.exe
+D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\Selasa_141114215_MuhammadIqbalLubis\Latihan_4_1\bin\Debug\Latihan_4_1MenuStrip.pdb
+D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\Selasa_141114215_MuhammadIqbalLubis\Latihan_4_1\obj\Debug\Latihan_4_1MenuStrip.Form1.resources
+D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\Selasa_141114215_MuhammadIqbalLubis\Latihan_4_1\obj\Debug\Latihan_4_1MenuStrip.Properties.Resources.resources
+D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\Selasa_141114215_MuhammadIqbalLubis\Latihan_4_1\obj\Debug\Latihan_4_1.csproj.GenerateResource.Cache

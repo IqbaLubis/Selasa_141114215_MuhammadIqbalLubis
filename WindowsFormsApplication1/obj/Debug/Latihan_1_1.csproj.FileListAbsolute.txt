@@ -7,4 +7,3 @@ D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\Selasa_14111421
 D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\Selasa_141114215_MuhammadIqbalLubis\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\Selasa_141114215_MuhammadIqbalLubis\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
 D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\Selasa_141114215_MuhammadIqbalLubis\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
-D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\Selasa_141114215_MuhammadIqbalLubis\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Latihan_2_1.resources
