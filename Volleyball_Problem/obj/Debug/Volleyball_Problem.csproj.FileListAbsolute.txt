@@ -1,0 +1,9 @@
+D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\Selasa_141114215_MuhammadIqbalLubis\Volleyball_Problem\bin\Debug\Volleyball_Problem.exe.config
+D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\Selasa_141114215_MuhammadIqbalLubis\Volleyball_Problem\obj\Debug\Volleyball_Problem.csprojResolveAssemblyReference.cache
+D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\Selasa_141114215_MuhammadIqbalLubis\Volleyball_Problem\obj\Debug\Volleyball_Problem.Form1.resources
+D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\Selasa_141114215_MuhammadIqbalLubis\Volleyball_Problem\obj\Debug\Volleyball_Problem.Properties.Resources.resources
+D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\Selasa_141114215_MuhammadIqbalLubis\Volleyball_Problem\obj\Debug\Volleyball_Problem.csproj.GenerateResource.Cache
+D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\Selasa_141114215_MuhammadIqbalLubis\Volleyball_Problem\bin\Debug\Volleyball_Problem.exe
+D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\Selasa_141114215_MuhammadIqbalLubis\Volleyball_Problem\bin\Debug\Volleyball_Problem.pdb
+D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\Selasa_141114215_MuhammadIqbalLubis\Volleyball_Problem\obj\Debug\Volleyball_Problem.exe
+D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\Selasa_141114215_MuhammadIqbalLubis\Volleyball_Problem\obj\Debug\Volleyball_Problem.pdb

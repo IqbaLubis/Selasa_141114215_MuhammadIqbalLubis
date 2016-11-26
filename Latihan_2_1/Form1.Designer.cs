@@ -42,6 +42,7 @@
             this.kalender.Location = new System.Drawing.Point(74, 53);
             this.kalender.Name = "kalender";
             this.kalender.TabIndex = 0;
+            this.kalender.DateChanged += new System.Windows.Forms.DateRangeEventHandler(this.kalender_DateChanged);
             // 
             // tanggal
             // 
@@ -64,6 +65,7 @@
             0,
             0,
             0});
+            this.tanggal.ValueChanged += new System.EventHandler(this.tanggal_ValueChanged);
             // 
             // bulan
             // 

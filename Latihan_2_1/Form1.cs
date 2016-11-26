@@ -59,5 +59,15 @@ namespace Latihan_2_1
             kalender.RemoveAnnuallyBoldedDate(new DateTime(2016, bulan.SelectedIndex + 1, Convert.ToInt32(tanggal.Value)));
             kalender.UpdateBoldedDates();
         }
+
+        private void kalender_DateChanged(object sender, DateRangeEventArgs e)
+        {
+
+        }
+
+        private void tanggal_ValueChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

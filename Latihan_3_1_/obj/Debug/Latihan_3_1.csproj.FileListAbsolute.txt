@@ -16,3 +16,6 @@ C:\Users\Iqballubis\Downloads\Compressed\Selasa_141112117_MuhammadAffan\Selasa_1
 C:\Users\Iqballubis\Downloads\Compressed\Selasa_141112117_MuhammadAffan\Selasa_141112117_MuhammadAffan\Latihan_3_1\obj\Debug\TugasCSharpLanjutanLatihan3.Form1.resources
 C:\Users\Iqballubis\Downloads\Compressed\Selasa_141112117_MuhammadAffan\Selasa_141112117_MuhammadAffan\Latihan_3_1\obj\Debug\TugasCSharpLanjutanLatihan3.Properties.Resources.resources
 C:\Users\Iqballubis\Downloads\Compressed\Selasa_141112117_MuhammadAffan\Selasa_141112117_MuhammadAffan\Latihan_3_1\obj\Debug\Latihan_3_1.csproj.GenerateResource.Cache
+D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\Selasa_141114215_MuhammadIqbalLubis\Latihan_3_1_\bin\Debug\TugasCSharpLanjutanLatihan3.exe.config
+D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\Selasa_141114215_MuhammadIqbalLubis\Latihan_3_1_\obj\Debug\TugasCSharpLanjutanLatihan3.exe
+D:\Data\Kampus\S 5\Framework\Selasa_141114215_MuhammadIqbalLubis\Selasa_141114215_MuhammadIqbalLubis\Latihan_3_1_\obj\Debug\TugasCSharpLanjutanLatihan3.pdb
